@@ -1,0 +1,14 @@
+[user]
+	email = arnaud.vandamme@circularx.com
+	name = Arnaud Vandamme
+[color "status"]
+    	added = green
+    	changed = yellow
+    	untracked = red
+
+[core]
+	editor = vi
+	hooksPath = ./.githooks
+	excludesfile = ~/.gitignore_global
+
+
